@@ -70,13 +70,6 @@ Watch a quick demo of QuizGenie in action on YouTube:
 
 ---
 
-## 👥 Team Members
-
-- **Rishi Umaria** – Frontend, AI dev, integration, server testing, Git management  
-- **Tyler Phillips** – Connection handling, Usability Testing, Unit Testing  
-
----
-
 ## 📜 License
 
 MIT License
