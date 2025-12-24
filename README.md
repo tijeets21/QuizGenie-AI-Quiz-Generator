@@ -29,27 +29,6 @@
 
 ---
 
-## 🎥 Demo Video
-
-Watch a quick demo of QuizGenie in action on YouTube:  
-👉 [QuizGenie Demo](https://www.youtube.com/watch?v=D8euRwwoUuw)
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="assets/Login_Screen.png" alt="Login Screen" width="45%"/>
-  <img src="assets/Home_Screen.png" alt="Home Screen" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="assets/Quiz_Screen.png" alt="Quiz Screen" width="45%"/>
-  <img src="assets/Result.png" alt="Result Screen" width="45%"/>
-</p>
-
----
-
 ## 🧑‍💻 Tech Stack
 
 - **C++** (Client-Server Architecture)  
